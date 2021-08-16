@@ -1,0 +1,13 @@
+h1 {
+	color: #7d7b78;
+}
+
+li {
+	font-size: 18px;
+	list-style: inside;
+}
+
+.bookcover {
+	height: 300px;
+	width: auto;
+}
