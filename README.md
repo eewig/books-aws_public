@@ -17,4 +17,6 @@ This site was made by using:
 - Gunicorn
 - Heroku
 
+Link: http://ec2-54-202-95-194.us-west-2.compute.amazonaws.com/books/
+
 Also here supposed to be some email service for password reset, but I found some difficulties with adding it to the project and as project is not hosting on AWS I decided to left it as it is (just showing message in console).
